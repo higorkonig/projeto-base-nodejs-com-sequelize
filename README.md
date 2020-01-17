@@ -2,7 +2,7 @@
 
 ### Introdução
 
-Esse é um esqueleto de um projeto NodeJs com o ORM Sequelize. Dependência que já estão instaladas:
+Esse é um esqueleto de um projeto NodeJs com o ORM Sequelize. Dependências que já estão instaladas:
 
 1. Nodemon -> Reaload no server automático.
 2. Sucrase -> Utilização de **import**, **export** e outras função do **ES6** sem bugs.
